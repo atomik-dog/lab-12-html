@@ -1,0 +1,31 @@
+body {
+	font-family: sans-serif;
+	font-size: 12px;
+	text-decoration: underline
+}
+
+h1 {
+	color: gold;
+	background-color: #888880;
+	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;
+	border-width: 5px;
+	border-color: red;
+	border-style: solid;
+}
+
+h2, p {
+	text-decoration: overline;
+	color: darkgreen;
+}
+
+#intro {
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+.spotlight {
+	background-color: #FEFE22;
+}
